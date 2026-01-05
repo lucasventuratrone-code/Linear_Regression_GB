@@ -60,7 +60,7 @@ The 3D visualization demonstrates that the regression plane learned by the
 custom implementation nearly overlaps with the plane learned by
 Scikit-Learn's model.
 
-![3D Regression Plane](figures/LinearRegression3DComparison_plane.png)
+![3D Regression Plane](figures/LinearRegression3DComparison.png)
 
 ---
 
