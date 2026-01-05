@@ -51,7 +51,7 @@ The 2D plot shows that the prediction lines produced by the custom
 implementation and by Scikit-Learn's LinearRegression almost perfectly
 overlap, indicating that both models learned the same linear function.
 
-![2D Prediction Comparison](figures/2d_prediction_comparison.png)
+![2D Prediction Comparison](figures/LinRegComparison.png)
 
 ---
 
@@ -60,7 +60,7 @@ The 3D visualization demonstrates that the regression plane learned by the
 custom implementation nearly overlaps with the plane learned by
 Scikit-Learn's model.
 
-![3D Regression Plane](figures/3d_regression_plane.png)
+![3D Regression Plane](figures/LinearRegression3DComparison_plane.png)
 
 ---
 
@@ -68,7 +68,7 @@ Scikit-Learn's model.
 The loss curve shows a smooth and stable decrease over iterations,
 indicating proper convergence of the optimization algorithm.
 
-![Loss Convergence](figures/loss_convergence.png)
+![Loss Convergence](figures/GDConvergence.png)
 
 ---
 
